@@ -27,7 +27,7 @@ I enjoy working across the software development lifecycle — from designing and
 
 ### Frontend
 
-`React.js` `Next.js` `Angular` `HTML` `CSS`
+`React.js` `Next.js` `Angular` `HTML` `CSS` `tailwindCSS'
 
 ### Backend
 
