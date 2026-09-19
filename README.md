@@ -27,7 +27,7 @@ I enjoy working across the software development lifecycle — from designing and
 
 ### Frontend
 
-`React.js` `Next.js` `Angular` `HTML` `CSS` `tailwindCSS'
+`React.js` `Next.js` `Angular` `HTML` `CSS` `Tailwind CSS`
 
 ### Backend
 
@@ -125,8 +125,6 @@ I'm interested in opportunities involving:
 **Software Development · Backend Engineering · AI/ML Engineering · Generative AI · Machine Learning Systems**
 
 I’m particularly interested in building systems where **software engineering and AI/ML come together**.
-
----
 
 ---
 
